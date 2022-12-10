@@ -1,0 +1,20 @@
+.counter{
+  background-color:rgb(238, 255, 0);
+  font-size: 80px;
+  border-radius: 90px;
+  color:rgb(181, 22, 22);
+  text-align: center;
+  padding: 10px;
+}
+
+.b1{
+  margin-left: 340px;
+  background-color: aqua;
+  border-radius: 100px;
+  padding:30px;
+}
+
+.Text{
+  text-align: center;
+  text-transform: uppercase;
+}
